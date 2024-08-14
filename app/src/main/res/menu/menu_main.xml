@@ -1,0 +1,13 @@
+<!-- res/menu/birthday_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_upcoming_birthdays"
+        android:title="Upcoming Birthdays"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="home"
+        android:orderInCategory="200"
+        android:showAsAction="never" />
+</menu>
